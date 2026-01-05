@@ -1,0 +1,7 @@
+{
+  "name": "Diaspora Connect",
+  "description": "A modern platform connecting the African diaspora with investment, evangelism, and tourism opportunities in Africa.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
